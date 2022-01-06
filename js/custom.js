@@ -44,7 +44,7 @@ $(function () {
         infinite: true,
         speed: 300,
         autoplay: true,
-        autoplaySpeed: 3000,
+        autoplaySpeed: 4000,
         slidesToShow: 3,
         slidesToScroll: 1,
         vertical: true,
